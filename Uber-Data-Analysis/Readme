@@ -1,0 +1,45 @@
+# Uber Data Analysis
+
+This project looks at Uber ride data to understand patterns like when people travel, how far they go, and how usage changes over time.
+
+---
+
+## What I did
+
+* Cleaned and explored the dataset
+* Converted date/time data for analysis
+* Analyzed ride patterns (time, distance, frequency)
+* Visualized trends using graphs
+
+---
+
+## Dataset
+
+Contains ride-level details such as:
+
+* Start and end time
+* Pickup and drop locations
+* Distance (miles)
+* Purpose of trip
+
+---
+
+## Approach
+
+Focused on exploratory data analysis (EDA) to find trends like:
+
+* Peak booking times
+* Most common trip purposes
+* Distance distribution
+
+---
+
+## Key takeaway
+
+Ride data can reveal clear usage patterns like busy hours and common trip types, which can help in better planning and decision-making.
+
+---
+
+## Author
+
+Sachin
