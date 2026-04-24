@@ -1,0 +1,56 @@
+# Customer Segmentation
+
+This project uses clustering to group customers based on their behavior and spending patterns.
+
+The idea is simple: not all customers are the same, so treating them the same is bad business.
+
+---
+
+## What I did
+
+* Explored customer data
+* Cleaned and scaled features
+* Used K-Means clustering to create segments
+* Visualized different customer groups
+
+---
+
+## Dataset
+
+Typical customer data including things like:
+
+* Age
+* Income
+* Spending score
+
+---
+
+## Approach
+
+K-Means clustering was used to group customers with similar patterns.
+The number of clusters was chosen using the elbow method.
+
+---
+
+## Why this matters
+
+Customer segmentation helps businesses:
+
+* Target the right audience
+* Improve marketing strategies
+* Understand high-value vs low-value customers ([GeeksforGeeks][1])
+
+---
+
+## Key takeaway
+
+Different customers behave differently.
+Clustering helps make that visible.
+
+---
+
+## Author
+
+Sachin
+
+[1]: https://www.geeksforgeeks.org/machine-learning/customer-segmentation-using-unsupervised-machine-learning-in-python/?utm_source=chatgpt.com "Customer Segmentation using Unsupervised Machine ..."
