@@ -1,0 +1,57 @@
+# Credit Card Fraud Detection
+
+A simple machine learning project to detect fraudulent transactions from a highly imbalanced dataset.
+
+---
+
+## What this project does
+
+Builds and compares models to identify fraud, where fraudulent cases are extremely rare (~0.17%).
+
+---
+
+## Dataset
+
+* 284,807 transactions
+* 492 fraud cases
+* Features are anonymized (V1–V28) + Time, Amount
+
+---
+
+## Approach
+
+* Basic data exploration
+* Feature scaling
+* Handling class imbalance
+* Training multiple models
+
+---
+
+## Models used
+
+* Logistic Regression
+* Decision Tree
+* Random Forest
+
+---
+
+## Evaluation
+
+Accuracy is misleading here, so the focus is on:
+
+* Recall
+* Precision
+* F1 Score
+* ROC-AUC
+
+---
+
+## Key takeaway
+
+Catching fraud is more important than overall accuracy, and handling imbalance is critical.
+
+---
+
+## Author
+
+Sachin
