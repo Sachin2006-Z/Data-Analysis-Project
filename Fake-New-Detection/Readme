@@ -1,0 +1,52 @@
+# Fake News Detection
+
+This project focuses on identifying whether a news article is real or fake using machine learning and basic NLP techniques.
+
+Fake news detection is essentially a text classification problem, where the goal is to classify articles based on their content. ([Kaggle][1])
+
+---
+
+## What I did
+
+* Cleaned and processed text data
+* Converted text into numerical features (like TF-IDF)
+* Trained models to classify news as real or fake
+* Evaluated performance using standard metrics
+
+---
+
+## Dataset
+
+* Collection of real and fake news articles
+* Includes title, text, and labels
+* Built for NLP classification tasks ([Kaggle][2])
+
+---
+
+## Approach
+
+* Text preprocessing (stopwords, cleaning, etc.)
+* Feature extraction
+* Model training and evaluation
+
+---
+
+## Models used
+
+* Logistic Regression
+* Naive Bayes / other basic classifiers
+
+---
+
+## Key takeaway
+
+Language patterns can help identify fake news, but context and meaning still make it a challenging problem.
+
+---
+
+## Author
+
+Sachin
+
+[1]: https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection?utm_source=chatgpt.com "Fake News Detection"
+[2]: https://www.kaggle.com/datasets/abaghyangor/fake-news-dataset?utm_source=chatgpt.com "Fake-News-dataset"
